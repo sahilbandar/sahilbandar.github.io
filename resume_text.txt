@@ -1,0 +1,447 @@
+SAHIL BANDAR  
+“Talk is cheap, show me the neurons.”  A Tech Lead AI Engineer  & 
+Certified Architect  with 8.5 years of expertise in Artificial Intelligence, Deep 
+Learning, Agentic AI, GenerativeAI,  Machine Learning,  NLP, Computer 
+Vision, Image Processing  and AIDevOps. Worked  on different ARM -based  
+and x86_64 architectures.  Global Village Tech Park,  
+Bangalore, KA 560059  
+—----------------------------------------  
+Phone: +91 9665412541  
+Email: sbsbandar@gmail.com  
+EXPERIENCE  
+GlobalEdge (Capgemini Engineering)  
+Tech Lead Engineer | AIML  
+May 2017 - PRESENT  
+● Designed & developed the Agentic AI platform  for developers 
+which is orchestrator agnostic, to use the framework of choice, 
+like LangChain , LangGraph , Crew AI , MS Semantic Kernel & 
+MS Autogen.  
+● Expert ise of working with Core algorithmic  concepts of 
+Generative AI & AgenticAI.  
+● Expertise with RAG, Prompting & Memory  concepts for 
+Generative AI & Agentic AI.  
+● Expertise of building the LLM from scratch with Llama & T5 
+architecture.  
+● Development of GenerativeAI Platform  for developers to build 
+& deploy LLM.  
+● Building the next level capabilities on GenerativeAI  in the 
+Internal Team.  
+● Designed the Agentic SDLC solution  for automated software 
+development.  
+● Designed the Agentic Cyber Security  solution for building the 
+secure Edge Platform which avoids vulnerabilities & attacks . 
+● Having ample knowledge on building the LLM Models for 
+different solutions like Software Debugger, Software build 
+automation, QnA models for domain specialized query . 
+● Hands -on with Image Processing  & Computer Vision  Algorithm 
+Development in C.  
+● Ample Knowledge on  Robotics platform, and Software stack for 
+Robotics, ROS/ROS2.  
+● Ample knowledge with Building  the robotics solutions for 
+Navigation, Mapping, Localization, Path Planning, Motion 
+Planning.  
+● Having ample knowledge of  ROS Navigation Stack.  
+● Good hands -on practice on  ROS1 & ROS2 for the VSLAM, SLAM, 
+ORBSLAM.  
+● Having ample knowledge on Open Robotics Middleware 
+Framework (OpenRMF).  
+● Bringing Robotics Navigation, Mapping and Localization on Web 
+UI. 
+●  Ample knowledge of the FreeFleet management with robotics 
+stack and middleware framework like OpenRMF.  
+● Having good expertise in implementing heterogeneous computing 
+algorithms  for optimizing Image Processing & Computer Vision 
+algorithms  for GPU/DSP/ FPGA/CPU  with DPC++(SYCL) /OpenCL/ 
+Cuda .  
+● Hands -on with the Deep Learning algorithm development  in C 
+(Conv2D, SeperableConv2D, Activation functions, BN, Pooling Ops)  
+● Ample Knowledge of the Robotics platform , and Software stack for 
+Robotics, ROS/ROS2 . 
+● Ample Knowledge of AutonomousCar Building Software Stack, Like SKILLS  
+Machine Learning | Deep Learning | Agentic AI | 
+Generative AI | RAG | Prompt Engineering |  Image 
+Processing | Computer Vision | Audio Processing | 
+Robotics | DL Algorithm Development | 
+Huggingface | Heterogeneous Computing | DPC++ 
+| SYCL | CUDA | OpenCL | EmbeddedAI | EdgeAI | 
+AIDevOps |  Reinforcement Learning | ADAS | V2X | 
+AI on Cloud | ARM Platform | CUDA | GPU | DSP | 
+ISP | GStreamer | FFMPEG | Yocto | Docker | 
+KubeFlow | Kuberenetes  | Tensorflow | Keras | 
+Darknet | PyTorch | ROS/ROS2 | ONNX | TFLite | 
+TensorRT |  Qualcomm SNPE | OpenVINO | Intel 
+NCSDK |  Ambarella CVFlow  | AWS Sagemaker | 
+AWS Sagemaker Neo | TVM |  Scikit Learn | OpenCV 
+| Numpy | Pandas | Make | GDB | CMAKE | BitBake | 
+CLang | GCC | LLVM | Autoware.AI | NVidia 
+DriveWorks | ARMNN | DL Framework 
+Development | CV Framework Development | 
+FastCV | DL Compiler Stack  
+PUBLICATIONS  
+ 
+SCOPES -2024  - Computer Vision/Deep Learning  
+Optimizing Machine Learning Models 
+Using Tensor Virtual Machine for 
+Embedded CPUs  
+Author(s)  
+Sahil Bandar, Christophe Fava Rivi, Ashish Tiwari, 
+Sahil Makandar  
+Published on IEEE - 
+https://ieeexplore.ieee.org/document/10990538  
+ 
+ 
+PRIS -2021  - Computer Vision/Deep Learning  
+A Deep Learning model capable of 
+producing heatmap probabilities for 
+Characters in Natural Scenes.  
+Author(s)  
+Rakesh Sankar, Ashish Tiwari, Sahil Makandar, Allen 
+Joshey  
+Published on ACM Digital Library.  
+https://dl.acm.org/doi/abs/10.1145/3480651.34806
+62 
+ 
+ 
+CVIP -2021  - Computer Vision/Deep Learning  
+ABNet - AdultBaby Net.  
+Author(s)  
+Sahil Bandar, Ashish Tiwari, Sahil Makandar, Allen 
+Joshey  
+Published on Springer & IIT Roorkee.  
+https://link.springer.com/chapter/10.1007/978 -3-
+031-11346 -8_24  
+Nvidia DriveWork , and Autoware.AI.  
+● Deep Learning Model Compilation  for different platforms using 
+TVM . 
+● Having good knowledge of different Optimizations Framework like 
+TFLite , OpenVino , SNPE , ONNX , Ambarella CVFlow , Neo , ARMNN , 
+eIQ.  
+● Having a Good understanding of Deep Learning Compiler Stack  on 
+the Front end & Back end.  
+● Hands -on with implementing the AI Solution on the Android 
+platform with NDK.  
+● Implemented Computer Vision Algorithms  like Image Reading, 
+resizing, Crop, Template Matching, Steganography, Color 
+Transformation, Edge Detection, Blur Filter, LBPH Face 
+Recognition, and Haar Cascade algorithms in C.  
+● Implementing Minimal Computer Vision Library in C  to remove 
+open -source dependencies.  
+● Ample knowledge of porting DL & CV based solutions on Edge 
+Devices for different architectures like ( armv7l, arm64 -v8a, 
+aarch64, armv7 -neon , Jetson Nano/TX2 Platforms, Snapdragon 
+Platforms, Ambarella CV22 , NXP iMX6x, iMX7x, iMX8x  platforms, 
+Rockchip 3568, 3399 Pro, STM32, Robotics RB5/RB3, QCS6xx, 
+Dragonboard 410 C). 
+● Developed different State of the art  solutions from Scratch like 
+Object Detection , Semantic Segmentation , OCR , Face 
+Recognition, Face Detection, Action recognition, Keypoint 
+Recognition, Object Classification Etc..  
+● Hands -on with Computer Vision using OpenCV . 
+● Hands -on with different Deep Learning frameworks like Tensorflow , 
+Keras , Darknet , PyTorch Etc. 
+● Implemented the Deep Learning Framework in C  for inference on 
+Edge Devices.  
+● Ample Hands -on knowledge of Qualcomm’s SNPE SDK  to integrate 
+and infer the deep learning models on supported Snapdragon 
+devices.  
+● Hands -on with Linear Regression, SVM(SVR), KNN, Decision Tree, 
+Random Forest, Logistic Regression, SVM(SVC), and K Mean 
+Clustering . 
+● Hands -on with ANN, CNN, RCNN, RNN, LSTM  and Transformer . 
+● R&D on different Object Detection algorithms like  SSD, 
+MobileNetSSD, Yolo series, RCNN, Fast RCNN, and Faster RCNN . 
+● R&D on different Image Segmentation Algorithms like UNET,  
+DeepLabV3, and Mask RCNN . 
+● Implemented the Solution for OCR solution.  
+● Completed 4 months  of training in C, Linux Internal, Toolchain, 
+Kernel Compilation & Configuration, Kernel module 
+development, Data structure .  
+PROJECTS  
+ 
+Alpha – AgenticAI Platform (09/2024 - Present)  
+● Working on Capgemini’s Internal Agentic AI  Platform development.  
+● Architecture  and designed platforms  for Agentic AI  for developers . AWARDS & 
+ACHIEVEMENTS  
+ 
+Certified Architect (07/2025)  
+For presenting architect skills in field of Artificial 
+Intelligence.  
+Issued by Capgemini  Global Certification Board  
+Innovation Award ( 11/2024)  
+For development of GenAI & AgenticAI platform.  
+Issued by Capgemini -Engineering  
+Falcon Hackathon for Best Engineering 
+solution of 2023 (03/2023)  
+#2nd Rank.  
+Issued by Capgemini -Engineering.  
+Global Data Science Challenge 2022  
+In the Top 25 among 400 teams (#18)  
+Issued by Capgemini -Engineering.  
+Limelight Award  (06/2020)  
+Issued by GlobalEdge Software Limited  
+Star Team Award (06/2020)  
+Issued by GlobalEdge Software Limited  
+Young Turk Award (08/2019)  
+Issued by GlobalEdge Software Limited  
+Terrific Three Award (12/2020)  
+Issued by GlobalEdge Software Limited  
+Best Team Award (08/2017)  
+Issued by GlobalEdge Software Limited  
+4 Time National Level Project 
+Competition Winner (12/2016)  
+Issued by Multiple Colleges under Shivaji University  
+3 Time State Level Project Competition 
+Winner (12/2016)  
+Issued by Multiple Colleges under Shivaji University  
+Project of the Year Award (2016 -2017)  
+Issued by DKTE’s TEI College under Shivaji University  
+ 
+ 
+ 
+CERTIFICATES  
+Generative AI with LLMs  
+● Developed the Noval approach on top of Agentic Memory Concept . 
+● Designed the solution for long term memory with its types.  
+● Build the framework with Langgraph, Autogen, CrewAI & Semantic 
+Kernel where developers can select the framework of their choice.  
+● Developers can create the entire design flow of the Agentic  AI use 
+case and build the use case they want.  
+ 
+Gyan – Generative AI Platform (09/202 2 - Present)  
+● Working on Capgemini’s Internal Generative  AI Platform 
+development.  
+● Architecture and designed platform for Generative  AI for developers . 
+● Developed the Model finetuning & scratch model training 
+framework . 
+● Developed the Model Evaluation & Deployment framework.  
+● Built the feature for optimizing the compiling the LLMs for Edge 
+devices using TensorRT.  
+● Design framework for RAG Pipeline creation & building the prompt 
+library.  
+● Designed various use cases and deployed under platforms 
+marketplace.  
+● Build the Data & Model repository to maintain the models & data of 
+user safely.  
+ 
+WiFi – GenAI  Log Analysis for Google Wifi  
+(09/2022 - Present)  
+● Finetuned the model for Wifi log analysis for hostapd & pcap file.  
+● Compiled the model with TensorRT which is capable of processing 
+1.5 million  logs with 200 GB of PCAPS within 11 minutes with GenAI.  
+● Designed the solution to finding the root cause and justifying the 
+problem with proper reason code.  
+● Reduced the manual engineer’s efforts of 4 -5 hours work to 11 
+minutes.  
+● Automated report generation with binary dump of failed PCAP.  
+● Performs the analysis of disconnect, disassociation and de -
+authentication from AP.  
+ 
+Other GenAI & Agentic AI Client Engagements  
+● Agentic SDLC  Framework  
+● Code Conversion from Delphi to C#  
+● Agentic AI cybersecurity agent.  
+● Data dog analyzer  
+● Medical Device log analyzer & Jeera automation  
+● Ticket management for Security incidents.  
+● Unit Test case Generation  
+● Diagrams to Test Scenario  
+● User Stories to test scenarion  
+● Code Review & Correction Agent  
+ 
+Robotics Development (06/2021 - 12/2024)  
+● Working on Qualcomm Robotics platform for building the different 
+Robotics use cases.  Issued by Deeplearning.AI  
+CNN in Tensorflow  
+Issued by Deeplearning.AI  
+Introduction to Tensorflow for AI, ML & 
+DL 
+Issued by Deeplearning.AI  
+NLP in Tensorflow  
+Issued by Deeplearning.AI  
+Docker Essential & Building 
+Containerized Application  
+Issued by Coursera Project Network  
+Tensorflow Serving with Docker for 
+Model Deployment  
+Issued by Coursera Project Network  
+Object Localization with Tensorflow  
+Issued by Coursera Project Network  
+Deep Learning with PyTorch: Building 
+an AutoEncoder  
+Issued by Coursera Project Network  
+Big Query basic for Data Analysts  
+Issued by Google Cloud  
+Sequences, Time Series and Prediction  
+Issued by Deeplearning.AI  
+ 
+ 
+DeepLearning.AI Tensorflow 
+Development Specialization  
+Issued by Deeplearning.AI  
+Deep Learning with PyTorch: Neural 
+Style Transfer  
+Issued by Coursera Project Network  
+ 
+EDUCATION  
+Bachelor of Engineering in Information 
+Technology  
+DKTE, Textile & Engineering Institute 
+(Shivaji University)  
+June 2014 - May 2017 | 69.49 %  
+Diploma in Information Technology  
+SIT Polytechnic  (MSBTE, Mumbai)  
+August 2011 - May 2014 | 68.13 %  
+ 
+● Integrated the ROS1 & ROS2 on Robotics platforms like RB3 & RB5.  
+● Implemented the AutonomousRB5 use case on the RB5 platform 
+which is a SMART CAR prototype use case (Showcased in AWS 
+re:Invent - 2021).  
+● Auto object avoidance on RB3.  
+● Implemented the Voice enabled Robot.  
+● Implemented Face recognition and tracking.  
+● Implemented the Gesture based robot control.  
+● Implemented the Simulator using Unity for Reinforcement Learning 
+for Lane Following.  
+● Integrating the Autoware.ai on RB5.  
+CopyPipeline development for Printer/Imaging  
+(06/2022 - 12/2022)  
+● Building the end -to-end copy pipeline for Printer & Imaging devices.  
+● All Computer Vision algorithms have been developed for Intel’s 
+GPU/FPGA cards using DPC++(SYCL).  
+● Code migration from CUDA to SYCL.  
+● Achieved performance of around 1.5x faster than Original (C for 
+Metal development).  
+● Found issues or pitfalls in pipelines, optimized & built various tools 
+for picking proper workgroup & Work Items for computation 
+configuration.  
+ 
+Smart Camera Development  (01/2022 - 06-2024)  
+● Building the Object Detection Model.  
+● Optimizing the model for different platforms like CoreStone1000, 
+RK3399 Pro, and NXP iMX8M Plus.  
+● Integration of CSI2 -MIPI Camera with Platform.  
+● Building containerized pipelined architecture.  
+● Building the cloud infrastructure for solution deployment with AWS 
+& Alibaba Cloud Services.  
+● Deployed & Orchestrated solution with Kubernetes & Greengrass.  
+ 
+Smart TV Gesture Control (10/2021 - 12/2021)  
+● Building Gesture recognition & Classification Model.  
+● Building Face Recognition model.  
+● Porting Solution on a Qualcomm QCS610 chipset.  
+● Building NDK Based Android Application for analyzing & controlling 
+the TV at backend.  
+● Face Recognition based unlock system.  
+ 
+Internal Project (12/2017 - Present)  
+● AI DL Framework Development  
+● Computer Vision Library Development  
+● R&D on Research paper and Publishing own research.  
+● AI Enabled Data Creation Tool  
+● DL Compiler Studies  
+● R&D on DTypes, Optimization of Convolution Ops/ DL Ops.   
+High School  
+SGV, Kurundwad  
+June 2005 - May 2011 | SSC - 72.00 %  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILES  
+Github (GITHUB/sahilbandar ) 
+LinkedIn (LINKEDIN/sahil -bandar ) 
+ 
+Youtube URL for Final Year Project Demo:  
+https://www.youtube.com/watch?v=mZ6mDGDUN
+3Y 
+ 
+ 
+ 
+PROGRAMMING 
+LANGUAGES  
+● C  •••••••• •• 
+● C++  ••••••• ••• 
+● Python  •••••••• •• 
+OPERATING 
+SYSTEMS  
+● Linux  
+••••••••• • 
+● Windows  
+••••••• ••• 
+● Open Embedded  
+••••••••• • 
+● R&D on Principle of Autonomy (Autonomous CAR / Robotics)  
+● State of the Art Model Development.  
+AI on Qualcomm Platforms (01/2018 - Present)  
+● Building Deep Learning models from scratch.  
+● Compiling the model using SNPE Tool.  
+● Developing UDO for unsupported layers.  
+● Quantizing models, Performance improvisation.  
+● Releasing the solution on Open Source Platforms like GitHub.  
+● Leveraging all the Qualcomm tools to fully optimize the solution 
+which is building  
+● Achieved 3 projects in the Top 5 project of 2019 in QDN.  
+● Worked on Different platforms from qualcomm like, SD820, SD821, 
+SD835, SD855, QCS610, QCS605, Dragonboard 410C.  
+● Implemented use cases like portrait mode, driver assistance on 
+android, Front object detection in the car, Facial Expression 
+recognition, Gesture Recognition.  
+ 
+ 
+AI-Benchmarking on CVFlow Ambarella (06/2021 - 
+09/2021)  
+● Compiling the different set of Open Source Model for CVFlow 
+Architecture of Ambarella CV22.  
+● Calculating & Benchmarking different parameters like Inf./S, Power 
+Consumption measurement, Quantized performance on FP16, INT8. 
+Batched data performance, Model Size. Accuracy.  
+ 
+AI-Benchmarking on NVidia TX2/Nano Platform 
+(01/2021 - 05/2021)  
+● Compiling the 20+ Open Source model with TensorRT.  
+● Building the custom C++ function for Unsupported layers.  
+● Calculating & Benchmarking different parameters like Inf./S, Power 
+Consumption measurement, Quantized performance on FP16, INT8. 
+Batched data performance, Model Size. Accuracy.  
+● Benchmarking the model performance with Different Power 
+Consumption mode of Nvidia Jetson platform.  
+● Building custom Power Mode in Jetson Platform.  
+● Implemented Plug & Play End -to-End AI Benchmarking Tool for 
+NVidia Jetson Platform.  
+ 
+Smart CITY (01/2019 - 12/2019)  
+● Implementing different state of the art models for Smart Camera 
+Use Case.  
+● Audio based classification model for Gunshots detection.  
+● Group of people detection.  
+● Abandoned Object Detection.  
+● Zebra Crossing analysis.  LANGUAGES  
+English, Hindi, Marathi  
+IDE & Tools  
+Vim | Visual Code | Atom | Spyder | 
+Jupyter Notebook | Nano | Minicom | 
+Putty 
+● License Plate Detection.  
+ 
+AI on Intel Platform (01/2018 - 03/2018)  
+● Working on the AIDevCloud platform of Intel, Analyzing the training 
+performance of Model.  
+● Compiling the models for Intel Platform using OpenVino.  
+● Compiling the models for Intel Movidius VPU.  
+● Performing the Model Inference on Intel CPU/GPU/VPU.  
+ 
+ADAS System (10 -2017 - 12 - 2017)  
+● Implemented the solution for the ADAS System which will detect 
+the front object of the car and give the alert to the Car Driver.  
+● The Object Detection model was trained for 6 specific objects like 
+Pedestrian, Car, Truck, Bus, Motorcycle &  Bicycle. Trained the model 
+using YoloV2.  
+ 
+ 
+ 
+ 
+Declaration: I hereby declare that the above particulars of information and facts stated are true, 
+correct and complete to the best of my knowledge and belief.  
